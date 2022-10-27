@@ -1,5 +1,5 @@
 
-![圖片介紹](https://github.com/Lyciih/Lyciih/raw/main/page-0001.jpg)
+![圖片介紹](https://github.com/Lyciih/Lyciih/blob/main/%E5%BB%BA%E7%AF%89%E8%A8%AD%E8%A8%88%E4%BD%9C%E5%93%81%E9%9B%86_page-0001.jpg)
 <!--
 **Lyciih/Lyciih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
